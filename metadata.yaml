@@ -1,0 +1,45 @@
+_repo: Eaux-printani-res_35657
+_version: 0.1.0
+alternative_title: Veshnie vody. French
+contributor:
+  translator:
+    agent_name: Delines, Michel
+    aliases:
+    - Ashkinazi, Mikhail Osipovich
+    - Delines, M. (Michel)
+    birthdate: 1851
+    deathdate: 1914
+    gutenberg_agent_id: '37809'
+    url: http://www.gutenberg.org/2009/agents/37809
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Turgénieff, Iván
+    - Tourgueneff, Ivan
+    - Toergenev, Ivan
+    - Тургенев, Иван Сергеевич
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35657'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- Translations into French'
+title: Eaux printanières
+url: http://www.gutenberg.org/ebooks/35657
