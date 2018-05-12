@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35657#Eaux-printani-res
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2011-03-22'
 gutenberg_type: Text
